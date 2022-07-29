@@ -1,0 +1,7 @@
+Please wait while Preview.js installs dependencies. This could take a minute.
+
+Error: Preview.js was unable to run npm.
+
+You can manually run "npm install" in /root/.vscode/extensions/zenclabs.previewjs-1.9.0/dependencies
+
+You will need to restart your IDE after doing so.
