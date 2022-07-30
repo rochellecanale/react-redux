@@ -41,8 +41,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -583,8 +582,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -593,8 +591,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1489,7 +1486,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 288,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1499,10 +1496,10 @@
             "folder": "file:///var/www/react_practice/react_redux",
             "backupPath": "/var/www/react_practice/react_redux/.vscode/Backups/2f86a1c50607cd1a2edbc2dcce996f65",
             "uiState": {
-                "mode": 0,
-                "x": 448,
-                "y": 193,
-                "width": 1024,
+                "mode": 1,
+                "x": 130,
+                "y": 158,
+                "width": 1704,
                 "height": 768
             }
         },
